@@ -14,6 +14,7 @@ def init(vals):
 
 def step():
     # TODO:
+    #probando git
     # 1) Elegir índices a y b a comparar en este micro-paso (según tu Bubble).
     # 2) Si corresponde, hacer el intercambio real en items[a], items[b] y marcar swap=True.
     # 3) Avanzar punteros (preparar el próximo paso).
