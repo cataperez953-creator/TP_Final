@@ -1,7 +1,7 @@
-#Insertion sort
+#Insertion sort: 
 items = []
 n = 0
-i = 0      # elemento que queremos insertar
+i = 0      # elemento el cual queremos insertar
 j = None   # cursor de desplazamiento hacia la izquierda (None = empezar)
 
 def init(vals):
