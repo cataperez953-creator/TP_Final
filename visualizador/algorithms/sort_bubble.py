@@ -24,7 +24,7 @@ def step():
     if i >= n - 1:
         finished = True
         return {"done": True}
-
+# definir cursores
     a = j
     b = j + 1
     swapped = False
