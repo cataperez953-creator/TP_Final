@@ -1,4 +1,4 @@
-# Algoritmo de ordenamiento con QuickSort
+# Algoritmo de ordenamiento QuickSort:
 items = []
 n = 0
 # Los punteros/estado:
